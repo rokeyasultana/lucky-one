@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "POLEX",
+    "price": 420,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/47856/rolex-wrist-watch-clock-gmt-47856.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+  },
+  {
+    "id": "2",
+    "name": "MICHAEL KORS",
+    "price": 196,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/2783873/pexels-photo-2783873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "3",
+    "name": "RIDER",
+    "price": 245,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/236900/pexels-photo-236900.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  },
+  {
+    "id": "4",
+    "name": "ROLEX",
+    "price": 229,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/364822/rolex-watch-time-luxury-364822.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  },
+  {
+    "id": "5",
+    "name": "FOSSIL",
+    "price": 287,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/3419331/pexels-photo-3419331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "6",
+    "name": "CURREN",
+    "price": 138,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/8839604/pexels-photo-8839604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "7",
+    "name": "MONIBLANC",
+    "price": 226,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/9897918/pexels-photo-9897918.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  },
+  {
+    "id": "8",
+    "name": "ROLEX",
+    "price": 319,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/9878594/pexels-photo-9878594.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  },
+  {
+    "id": "9",
+    "name": "CARTER",
+    "price": 260,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/9897865/pexels-photo-9897865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "10",
+    "name": "ROLEX",
+    "price": 437,
+    "ratings":5 ,
+    "img": "https://images.pexels.com/photos/9981598/pexels-photo-9981598.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  },
+  {
+    "id": "11",
+    "name": "NIXON",
+    "price": 146,
+    "ratings":5 ,
+    "img": "https://images.unsplash.com/photo-1525740664269-1bb17f251737?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "12",
+    "name": "FOSSIL",
+    "price": 109,
+    "ratings":5 ,
+    "img": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1230&q=80"
+  }
+]

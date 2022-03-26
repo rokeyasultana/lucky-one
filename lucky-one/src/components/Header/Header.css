@@ -1,4 +1,8 @@
 .Watches{
+    text-align: center;
     color: indigo;
-    font-size: 30px;
+    font-size: 40px;
+}
+.buy-watch{
+    text-align: center;
 }
