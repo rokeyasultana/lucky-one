@@ -1,6 +1,6 @@
 # How React Works
 
-This project was bootstrapped with [Create React App]().
+This project was bootstrapped with [World of Watches]().
 
 ## Available Scripts
 

@@ -27,6 +27,6 @@
 
 @media screen and (max-width: 786px) {
     .products-container{
-        grid-template-columns:repeat(1fr) ;
+        grid-template-columns:repeat( 2fr) ;
     }
 }
