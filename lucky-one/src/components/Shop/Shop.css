@@ -10,8 +10,8 @@
     margin: 100px 50px ;
 }
 
-@media screen and (max-width:1100px) {
+@media screen and (max-width: 786px) {
     .products-container{
-        grid-template-columns:repeat(2,1fr) ;
+        grid-template-columns:repeat(2) ;
     }
 }

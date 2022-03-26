@@ -3,7 +3,8 @@
     height: 580px;
     border: 1px solid black;
     border-radius: 8px;
-  
+    position: relative;
+
 }
 .product img{
     height: 286px;
@@ -27,10 +28,22 @@
    margin-top: 7px ;
 }
 .btn-cart{
+    
     color: aliceblue;
-    font-size: 20px;
+    font-size: 16px;
     width: 100%;
     border: none;
     border-radius: 5px;
     background-color: rgb(85, 85, 245);
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-cart .btn-text{
+    margin-right: 5px ;
+}
+.btn-cart:hover{
+    background-color: rgb(247, 138, 99);
 }
