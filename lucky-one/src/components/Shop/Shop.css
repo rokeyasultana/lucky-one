@@ -9,9 +9,24 @@
     gap: 45px;
     margin: 100px 50px ;
 }
+.cart-container{
+    background-color: peachpuff
+}
+.btn-choose{
+    margin-top:300px;
+     position: absolute;
+     top: 0;
+     padding: 30px;
+     color: aliceblue;
+     font-size: 16px;
+     border: none;
+     border-radius: 9px;
+     
+    
+}
 
 @media screen and (max-width: 786px) {
     .products-container{
-        grid-template-columns:repeat(2) ;
+        grid-template-columns:repeat(1fr) ;
     }
 }
