@@ -3,9 +3,9 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-         <h1 className='Watches'>World of Watches</h1>
-         <p className='buy-watch'>Buy your favourite one...</p>
+        <div className='bg'>
+         <h1 className='text-center '>World of Watches</h1>
+         <h5 className='text-center '>Buy your favorite one..</h5>
         </div>
     );
 };

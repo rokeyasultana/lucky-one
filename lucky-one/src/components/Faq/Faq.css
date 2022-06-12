@@ -1,4 +1,4 @@
-.faq{
-    display: grid;
-    grid-template-columns: 2fr 2fr;
+.card{
+    background-color: black;
+    border: 2px solid coral;
 }

@@ -1,29 +1,15 @@
+
 import React from 'react';
-import'./Cart.css';
+import './Cart.css';
 
-const Cart = (props) => {
-    const {cart} =props;
-    console.log(cart);
-
-    let selectedWatch = '';
-   
-    for (const product of cart){
-        selectedWatch = product.name;
-       
-    }
-
-    return (
-        <div className='cart'>
-            <h2>Selected Items</h2>
-           <p> Selected Watch: {cart.length}</p>
-           <p> Watch-Name:{ selectedWatch} </p>
-           
-           
-        </div>
-
-         
-    );
-    
+const Cart = (props )=> {
+  
+  
+  return (
+    <div className="cart text-center ">
+    cart
+  </div>
+  );
 };
 
 export default Cart;

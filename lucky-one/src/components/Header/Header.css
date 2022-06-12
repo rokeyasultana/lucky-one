@@ -1,8 +1,7 @@
-.Watches{
-    text-align: center;
-    color: indigo;
-    font-size: 40px;
-}
-.buy-watch{
-    text-align: center;
+.bg{
+    background-color:coral;
+    position: sticky;
+    top: 0;
+    height: 100px;
+    color:white;
 }
