@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import SelectedProduct from '../SelectedProduct/SelectedProduct';
-
 import'./Shop.css';
 
 const Shop = () => {
@@ -28,13 +27,12 @@ const Shop = () => {
     if (cart.length <= 3) {
         const newProduct = [...cart, product];
         setCart(newProduct);
-      } else {
-        <div class="alert alert-danger" role="alert">
-        A simple danger alert—check it out!
-      </div>
-      }
-    };
+      } 
+       else {
+          alert("Please add at least two Item !");
 
+    };
+  }
     const choseOne = () => {
 
         if (cart.length < 2 || cart.length === 0) {
