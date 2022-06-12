@@ -1,8 +1,8 @@
-#Header of the website
+Header of the website
 
 World of watches website of watches. Here you see the different type of watches and you can choose your favourite watch.
 
-#Usage
+Usage
 
 *Create react app
 *Bootstarp
